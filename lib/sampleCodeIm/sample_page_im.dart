@@ -32,6 +32,7 @@ class _SamplePageImState extends State<SamplePageIm> {
         _isCameraInitialized = true;
       });
     }
+    //test
   }
 
   @override
